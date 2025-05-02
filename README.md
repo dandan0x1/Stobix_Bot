@@ -10,5 +10,7 @@ Stobix 是一个以隐私为核心的加密货币交易平台，结合人工智�
 
 # Stobix Bot 脚本食用教程
 1、代理池配置``proxy_config.json``
+
 2、自定义代理``proxy.txt``
+
 3、evm密钥``private_key.txt``
